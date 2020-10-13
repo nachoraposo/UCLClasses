@@ -6,19 +6,24 @@ In the internal group you commit to read a text and make a quality summary of it
 
 ## How to edit
 ### Editing
-To edit is as simple as clicking in the file and Edit. 
+To edit is as simple as clicking in the file and Edit. (pen icon on top right corner)
 ### Images
 You can add images and snippets by uploading the image to the folder images and just copying the **web path** into:
 
 - ![*insert text title of the image*](**web path** ex. http://url/to/img.png)
 
 ### Create a new file
-To create a new file just click on add file.
+To create a new file just click on  file, create new file and name it like "INSERT_NAME.md".
 
 ## Style Guide
+### Text ordering
+- To organize the readings summaries the nomenclature should be:
+* Theme#_Name of Reading
+
 
 ### Writing
-- * *for italics text* *
+- \* *for italics text* *
+- \* at the start of text for bulletpoints
 - ** **for black text**  **
 - Add tales just add these symbols as column separators | | | |
 
