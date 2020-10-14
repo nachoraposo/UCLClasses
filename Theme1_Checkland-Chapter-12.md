@@ -5,5 +5,7 @@ We'll write in *italics*
 And here everything will be ****black****
 ### This one even more
 
-Did I get it right? :)
+Here we will talk in bullet points because:
+* it's useful
+* that's all
 
