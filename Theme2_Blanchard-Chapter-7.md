@@ -34,5 +34,51 @@ Extensive informal and formal commication is required within entities involved i
 
 ## 7.3 Customer Organization and Functions
 
-The customer is the final user and the one that needs the requirements met, or a representative for these interests.
+The customer is the final user that sets the requirements to satisfy a need, or it could also be an external representative for these interests.
+
+### Who is the ultimate "Customer"?
+It is essential that this overall “chain” of organizational entities be addressed in the planning and development of systems.
+
+*Comment: 
+from a strategic point of view the sum of the parts must make up for the whole of the intended scope. If the system is ill engineeried, the scope will only be partly satisfied due to the lack of coherence between the conceptual ideation and the practical application.*
+
+*From an operational standpoint, the customer is the next sub-system where i need to deliver the equirements according to their tactical specification*
+
+
+The industrial
+firm has been held responsible for the design, development, production, and delivery
+of a system in response to certain specified requirements. However, the customer has
+not always provided the producer with the necessary data and/or controls to allow
+the development effort to proceed in accordance with good system engineering
+practices. At the same time, the customer has not performed the necessary functions
+of system engineering management. The net result has been the development of systems without the consideration of many of the characteristics discussed throughout
+Chapter 3; that is, systems that are unreliable, not maintainable, not supportable, not
+cost-effective, and not responsive to the needs of the ultimate users.
+
+ is essential that the responsibility
+for system engineering be established from the beginning. The customer must clarify
+system objectives and program functions, and the requirements for system engineering must be well defined.
+
+
+In the event that the system engineering responsibility is delegated to the producer (i.e., the preceding second option), the customer must completely support this
+decision by providing the necessary top-down guidance and managerial backing.
+Responsibilities must be properly delineated, system-level data generated through
+earlier customer activities and studies made available to the producer (e.g., the results
+of feasibility analyses, the documentation of operational requirements), and the producer must be given the necessary leeway relative to making decisions at the system
+level. The challenge for the customer is to prepare a good, comprehensive, wellwritten, and clear SOW to be implemented by the producer. The emphasis should
+be on the issues of producer performance, specifying what needs to be accomplished
+and when, versus telling the producer how to perform the job. In addition, the various
+lines of communication between the customer and producer shown in Figure 7.1 must
+support a unified and consistent approach throughout.
+
+
+*comments*
+*We are either handed the strategic planning already performed by the customer, or we have to develop it ourselves to cope with the needs of the customer. In the first case, there is the advantage that the plan was drafted by an entity that has domain knowledge, however, there could be unintended situations where the sistem was not well characterised or misunderstood by the supplier, manifesting in partial failure to meet the objectives*
+
+*On the other hand, scoping the system as a supplier gives control and responisbility for the result to meet the customer's needs, however there is a lack of domain knowledge that has to be overcome.*
+
+*In case that the client does not have a clear idea of the requirements, a variable-scope approach has to be taken to start addressing the uncertainty over the needs and discovering the most important/impactful requirements, and shape the scopes down to design vertically solutions/products for the discovered requirements.*
+
+
+
 
